@@ -9,9 +9,9 @@
 
 ## Dataset Overview
 
-- Name: Global Layoff Data [Link](https://github.com/user-attachments/assets/f58eab37-8fd2-49f1-b924-faf64880935a")
+- Name: [Global Layoff Data](https://github.com/Nmathis04/Yearly-Industry-Layoffs-Analysis-per-country-2020-to-2023/blob/main/layoffs.csv)
 - Key Fields: company, location, industry, total laid off, percent laid off, date, funding stage, country, funds raised.
- 
+ ![image alt](https://github.com/Nmathis04/Yearly-Industry-Layoffs-Analysis-per-country-2020-to-2023/blob/9674da926e6f21edf53dc1ead464b2d503634ba9/layoff%20data%20snippet.png)
   
 ---
 
@@ -22,3 +22,11 @@
 - Assess investment risk
 
 --- 
+
+
+## Cleaning Data
+
+The steps that were taken to clean the data set were: 
+1. Removing duplicates
+2. Standardizing Data
+3. Removing Nulls or Replacing Nulls with accurate information 
