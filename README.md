@@ -26,7 +26,9 @@
 
 ## Cleaning Data
 
+Using the MySQL application, I uploaded the CSV dataset and cleaned the dataset using SQL.
 The steps that were taken to clean the data set were: 
 1. Removing duplicates
 2. Standardizing Data
 3. Removing Nulls or Replacing Nulls with accurate information 
+![image alt](https://github.com/Nmathis04/Yearly-Industry-Layoffs-Analysis-per-country-2020-to-2023/blob/bb97365a644b82052aaff40be20d970f52d59722/removing%20dups%201.png)
