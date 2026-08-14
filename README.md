@@ -32,3 +32,10 @@ The steps that were taken to clean the data set were:
 2. Standardizing Data
 3. Removing Nulls or Replacing Nulls with accurate information 
 ![image alt](https://github.com/Nmathis04/Yearly-Industry-Layoffs-Analysis-per-country-2020-to-2023/blob/bb97365a644b82052aaff40be20d970f52d59722/removing%20dups%201.png)
+
+---
+
+## Analyzing Data
+
+I conducted an exploratory analysis of this dataset using SQL and Excel to create visuals. When exploring the data I was able to identify the minimums and maximums of the total laid off by country, company and industry to understand the impact. Discoverd which
+companies by year were the top 5 with the highest layoffs. 
